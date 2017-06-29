@@ -1,0 +1,14 @@
+[
+    {
+        "key": "features",
+        "type": "feature",
+        "name": "radio",
+        "cost": 7
+    },
+    {
+        "key": "features",
+        "type": "feature",
+        "name": "keep-in-lane",
+        "cost": 30
+    }
+]

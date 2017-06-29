@@ -1,0 +1,32 @@
+[
+    {
+        "key": "cars-A",
+        "type": "car",
+        "manufacturer": "GM",
+        "model": "Volt",
+        "year": 2016,
+        "features": [ "radio", "keep-in-lane" ],
+        "color": "red",
+        "cost": 1000
+    },
+    {
+        "key": "cars-A",
+        "type": "car",
+        "manufacturer": "GM",
+        "model": "Volt",
+        "year": 2012,
+        "features": [ "radio" ],
+        "color": "green",
+        "cost": 800
+    },
+    {
+        "key": "cars-B",
+        "type": "car",
+        "manufacturer": "GM",
+        "model": "Volt",
+        "year": 2014,
+        "features": [ "keep-in-lane" ],
+        "color": "green",
+        "cost": 900
+    }
+]

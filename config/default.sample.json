@@ -1,0 +1,6 @@
+{
+    "host": "https://something.documents.azure.com:443/",
+    "key": "????",
+    "db": "????",
+    "col": "????"
+}

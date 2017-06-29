@@ -1,0 +1,14 @@
+[
+    {
+        "key": "colors",
+        "type": "color",
+        "name": "red",
+        "cost": 10
+    },
+    {
+        "key": "colors",
+        "type": "color",
+        "name": "green",
+        "cost": 15
+    }
+]
